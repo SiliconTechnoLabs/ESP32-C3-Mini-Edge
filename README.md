@@ -9,3 +9,10 @@ Designed for developers, the ESP32 C3 Mini Edge is compatible with Espressif’s
 Whether you’re building smart devices, sensor networks, or wearables, this board is a powerful yet compact solution.
 
 **Note: This board requires manual programming. To upload code, hold down BOOT while resetting a simple step to get started.**
+<img width="1224" height="702" alt="esp32-c3-edge-feature" src="https://github.com/user-attachments/assets/7b0acdab-5ca2-49cf-b173-719d7293fb8d" />
+
+<img width="1000" height="1000" alt="ESP32_C3_EDGE-Pin-diagram" src="https://github.com/user-attachments/assets/3607c258-c5d0-4691-8294-3f373892f982" />
+
+Blink on-Board LED.
+
+![esp32-c3-edge-led-blink](https://github.com/user-attachments/assets/5bbf8064-f160-467c-84f5-830abfd4f01a)
